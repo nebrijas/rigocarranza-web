@@ -1,4 +1,4 @@
-#  Repositorio del trabajo del modelo de Periodismo de datos II 
+#  Actividad Dirigida 1 
 
 ## Las historias a base de datos 
 
@@ -28,8 +28,3 @@ Considero que cumplen con aspectos necesarios para la presentación de contenido
 Otro punto a favor que tiene y pondero es la colocación de una manera muy interactiva la metodología de trabajo, el lector debe hacer clic en un recuadro que luego hace desplazar hacia abajo un cuadro de texto que le permite conocer cómo se realizó el trabajo.
 
 **Algo que agregaría no sólo en esa nota, sino también en otras notas sería contenido audiovisual.**
-
-## Actividades Dirigidas 
-
- {Actividad dirigida 1}(ad1.md)
- {Actividad dirigida 2}(ad2.md) 
