@@ -6,7 +6,7 @@ Actualmente las historias que son contadas por el periodismo de datos toman una 
 
 **En Panamá, esta forma de trabajar en el periodismo no es común**, a diferencia de varios países en Europa o el resto de Latinoamérica. 
 
-En esta ocasión, coloqué mi mirada hacia la página (CIVIO.ES)<https://civio.es/area/sanidad/> donde he podido encontrar una variedad de trabajos basados en datos.
+En esta ocasión, coloqué mi mirada hacia la página [CIVIO.ES](<htps://civio.es/area/sanidad/) donde he podido encontrar una variedad de trabajos basados en datos.
 
 Destaco de la página su diseño y presentación de la información, la forma en que está estructurada cada una de las portadas, los colores, además del estilo dinámico que puede ofrecer. 
 
@@ -31,5 +31,5 @@ Otro punto a favor que tiene y pondero es la colocación de una manera muy inter
 
 ## Actividades Dirigidas 
 
- {Actividad dirigida 1}(ad1.md)
- {Actividad dirigida 2}(ad2.md) 
+ [Actividad dirigida 1](ad1.md)
+ [Actividad dirigida 2](ad2.md) 
