@@ -36,3 +36,32 @@ Otro punto a favor que tiene y pondero es la colocación de una manera muy inter
  2. [Actividad dirigida 2](ad2.md) 
  3. [Actividad dirigida 3](AD3.md)
  4. [Actividad dirigida 4](ad4.md)
+
+
+# APRENDIZAJE  DE LA MATERIA 
+
+ En esta última asignatura del master, **periodismo de datos 2**, han sido una variedad de herramientas que hemos podido utilizar para poder  trabajar y crear una página web, al mismo tiempo presentar datos con alternativas dinámicas. 
+
+### Primer Paso 
+
+
+
+Al comienzo se nos dio instrucciones para poder crear una cuenta de **Git Hub** para poder iniciar el camino hacia un proceso de aprendizaje. En esta cuenta, se pudo crear un _**README**_, donde se colocó el análisis sobre una publicación sobre datos.
+
+### Segundo Paso 
+
+Más adelante, se instaló el **Git Bash**, para poder trabajar las modificaciones en nuestro README desde este programa como lo es **Git Bash**.  De esta manera se estaría cumpliendo con la segunda actividad de la clase. 
+Una actividad que implicó el conocimiento y funcionamiento de técnicas y nuevos lenguajes que se pueden utilizar en programación, pero trabajando también con el **MARKDWON**
+
+### Tercer Paso 
+
+En esta etapa, se pudo conocer de la plataforma Jupyter, donde se estaría trabajando una nueva forma de escritura a través de códigos y markdwon .  Es donde se pudo comprender la conexión que existe entre el **Github, Git Bash y Jupyter** para poder realizar trabajos. Se puso en práctica una _programación literaria_.   
+
+### Cuarto Paso 
+
+En esta última sección, se continuó trabajando con jupyter pero se estaría con códigos en los que estaríamos mostrando gráficas y cuadros para visualización. 
+
+# Dificultades 
+
+A pesar de tener esa orientación de los programas en clase, afirmo que realizar esta travesía no fue nada fácil. Cada etapa para una persona que desconoce a profundidad el funcionamiento de estos programas queda dar un esfuerzo extra por llegar a la meta y hacer los intentos necesarios a pesar de las equivocaciones, que al final serían los impulsos anhelados para lograr la meta. 
+
